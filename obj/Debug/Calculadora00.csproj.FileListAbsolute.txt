@@ -1,0 +1,7 @@
+C:\Users\barri\source\repos\Calculadora00\Calculadora00\bin\Debug\Calculadora00.exe.config
+C:\Users\barri\source\repos\Calculadora00\Calculadora00\bin\Debug\Calculadora00.exe
+C:\Users\barri\source\repos\Calculadora00\Calculadora00\bin\Debug\Calculadora00.pdb
+C:\Users\barri\source\repos\Calculadora00\Calculadora00\obj\Debug\Calculadora00.csprojAssemblyReference.cache
+C:\Users\barri\source\repos\Calculadora00\Calculadora00\obj\Debug\Calculadora00.csproj.CoreCompileInputs.cache
+C:\Users\barri\source\repos\Calculadora00\Calculadora00\obj\Debug\Calculadora00.exe
+C:\Users\barri\source\repos\Calculadora00\Calculadora00\obj\Debug\Calculadora00.pdb
